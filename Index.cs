@@ -11,6 +11,7 @@ namespace TestGitPractice2
             Indexx indexx = new Indexx();
             System.Console.WriteLine(indexx.FindPositiveNumber());
             System.Console.WriteLine("I love you");
+            System.Console.WriteLine("Hello");
             Console.ReadKey();
         }
     }
