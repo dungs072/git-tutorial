@@ -11,5 +11,9 @@ namespace TestGitPractice2
         {
             return 7;
         }
+        public int FindSmallNumber()
+        {
+            return 1;
+        }
     }
 }
