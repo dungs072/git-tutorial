@@ -7,5 +7,9 @@ namespace TestGitPractice2
         {
             return -1;
         }
+        public int FindSuperNumber()
+        {
+            return 7;
+        }
     }
 }
